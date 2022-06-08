@@ -1,9 +1,4 @@
-/* This program performs basic Arithmetic operations.First, 
-compile the code then, run the output file.The program asks
- input of two numbers a and b to the end user.The user has 
-to assign the two number.The program automatically performs
-arithmetic operations and gives the end result of all the 
-operations simultaneously. *\
+
 
 
 #include <stdio.h>  //header file
